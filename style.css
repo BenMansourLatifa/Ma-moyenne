@@ -1,0 +1,179 @@
+/*CSS*/
+body{
+     background-color: #faf9fc;
+}
+A {text-decoration: none;}
+.header{
+    height: 78px;
+    background-color: cadetblue;
+    margin: 0;
+   
+}
+.first{
+    font-family: 'Concert One', cursive;
+    font-size: 60px;
+    color: #e3c40c;
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+.second{
+    font-family: 'Concert One', cursive;
+    font-size: 40px;
+    color: #33313b;
+    text-align: center;
+    margin-left: 15px;
+    
+}
+.prepa{
+    font-family: inherit;
+    font-size: 25px;
+    color: #e3c40c;
+    font-weight: 350;
+    text-align: center;
+    margin-top: 90px;
+    margin-left: 80px;
+}
+.content{
+    margin-left: 0px;
+}
+.selection .text{
+    font-family: fantasy;
+    font-size: 30px;
+    color: #33313b;
+    font-weight: 300;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.niveau
+{
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    background-color: #e3c40c;
+    padding: 15px 60px ;
+    border-radius: 20px;
+    margin-left: 0;
+    font-weight: 250;
+}
+.sep{
+    font-size: 40px;
+    font-weight: 1000;
+    color: #4592af;
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.choix{
+    margin-left: 390px;
+    margin-top: 25px;
+}
+.classe{
+    display: inline-block;
+}
+/*Styling pour la 1ere  et 2éme page */
+.enter{
+     font-family: fantasy;
+    font-size: 25px;
+    color: #e3c40c;
+    font-weight: 300;
+    text-align: left;
+    margin-left: 570px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.semestre{
+    font-family: 'Concert One', sans-serif;
+    font-size: 22px;
+    color: #4592af;
+    display: inline-block;
+    
+}
+.semestrep{
+    margin-top: 30px;/*
+    margin-left: 100px;
+    margin-right: 100px;*/
+    
+}
+.semestre .semnom{
+    text-align: center;
+    margin-left: 60px;
+}
+.semestred{
+        margin-top: 30px;/*
+    margin-left: 100px;*/
+    margin-bottom: 20px;
+}
+.seperator{
+    font-size: 75px;
+    color: #e3c40c;
+    position: relative;
+    object-position: top;
+}/*/*/*/*
+.note{
+    display :inline-block;
+}*/
+input:focus{
+    outline-color:#e3c40c;
+    border-radius: 10px;
+    outline-width: thick;
+}
+input{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    height: 25px;
+    width: 120px;
+    margin-left: 0px;
+    margin-right:5px;
+    text-align: center;
+    font-weight: bold;
+    background-color: gainsboro;
+   color: #33313b;
+    
+}
+.matnom{
+    font-family: 'Changa', sans-serif;
+    font-size:20px;
+    color: #33313b;
+    font-weight: 250;
+    margin-left: 0px;
+}
+.seper{
+    display: block;
+}
+form {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sem{
+    margin-left: 125px;
+    margin-right: 125px;
+    display: inline-block;
+}
+.btn{
+    background-color: #e3c40c;
+    margin-top: 50px;
+    margin-left: 100px;
+    width: auto;
+    height: 40px;
+     color: #33313b;
+    font-size: 20px;
+}
+.calcul{
+    margin-top: 55px;
+}
+.ann{
+     text-align: center;
+    font-family: 'Concert One', sans-serif;
+    font-size: 22px;
+    color: #4592af;
+    margin-left: 20px;
+}
+.annu{
+    margin-left: 530px;
+}
+.annu input{
+    margin-left: 15px;
+}
